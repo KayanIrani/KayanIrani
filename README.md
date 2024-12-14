@@ -26,6 +26,9 @@ I am an organized, dependable, and innovative individual, passionate about harne
 4. Made a **Search-Optimized based cpp Project** which used a **Trie** Data Structure in C++ to sort search results and used Flask to give dynamic output from compiler to frontend. 🔍🔄🔧
 5. Made a **Twitter Profile Extractor Web Application** which extracts meaningful data of a searched user and makes a PDF documented report about them using ReactJS as frontend and FastAPI as backend. 🔄🕋🔧
 6. Currently working on a **Network Intrusion Detection System** using PyQt for making Desktop Applications with Python. 🌐🔧🚀
+7. Implemented **Haskell Zippers** for C++. 🔄🌐🎓
+8. Mimicked **Windows File System Commands** like `mkdir`, `rmdir`, `cd`, etc., in C++ using the Haskell-implemented Zippers. 🌎🔄🔧
+
 
 ---
 ### Soft Skills
