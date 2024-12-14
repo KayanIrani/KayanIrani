@@ -23,7 +23,7 @@ I am an organized, dependable, and innovative individual, passionate about harne
 1. Made a **Planetary Gravitational Calculator** using C++. 🌌👨‍🔬🔄
 2. Made a **Frontend** using HTML, CSS, JavaScript and Backend using NodeJS, ExpressJS, and XAMPP to implement a Web-Based Music Player named **Musicia** which can upload, play, and download music. 🎵🎧🔄
 3. Made a **Medical Based Frontend App** using Flask which had an integrated chatbot. 👨‍💻🔧
-4. Made a **Search-Optimized Data-Structure Integrated Web Development Project** which used a Trie Data Structure in C++ to sort search results and used Flask to give dynamic output from compiler to frontend. 🔍🔄🔧
+4. Made a **Search-Optimized based cpp Project** which used a **Trie** Data Structure in C++ to sort search results and used Flask to give dynamic output from compiler to frontend. 🔍🔄🔧
 5. Made a **Twitter Profile Extractor Web Application** which extracts meaningful data of a searched user and makes a PDF documented report about them using ReactJS as frontend and FastAPI as backend. 🔄🕋🔧
 6. Currently working on a **Network Intrusion Detection System** using PyQt for making Desktop Applications with Python. 🌐🔧🚀
 
