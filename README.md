@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile! 🌟💻🚀
 
 ## About Me 📚🔧🌐
-I am an organized, dependable, and innovative individual, passionate about harnessing technology to solve real-world problems. With a strong willingness to take on added responsibilities, I aim to contribute effectively to achieving organizational goals. My objective is to secure and maintain a full-time position in development, that offers professional challenges, utilizing my interpersonal skills, excellent time management, and problem-solving abilities. 🚀🌐🔧
+I am an organized, dependable, and innovative individual, passionate about harnessing technology to solve real-world problems. With a strong willingness to take on added responsibilities, I aim to contribute effectively to achieving organizational goals. My objective is to secure and maintain a full-time position in development (web or application), that offers professional challenges, utilizing my interpersonal skills, excellent time management, and problem-solving abilities. 🚀🌐🔧
 
 ---
 
